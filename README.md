@@ -129,4 +129,4 @@ Node packages, etc.
 
 A separate staging can be configured to use a version of this site, if
 a maintainer of the project approves it, using a comment including
-the phrase `/startContentBuild`.
+the phrase `/**startContentBuild**`.
